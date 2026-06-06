@@ -25,12 +25,15 @@ Compartilho conteúdo sobre dados e análise no **[✏️ LinkedIn/Redes]**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagosilvax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagosilvax&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<a href="https://github.com/yagosilvax">
+  <img height="180em" src="https://streak-stats.demolab.com?user=yagosilvax&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+</a>
+
+<a href="https://github.com/yagosilvax">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yagosilvax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true"/>
+</a>
 
 </div>
-
----
 
 ### 🛠️ Linguagens e Tecnologias
 
