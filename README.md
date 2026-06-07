@@ -1,27 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Yago&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Yago%20Silva&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineering%20%7C%20Business%20Intelligence&descAlignY=60&descSize=22)
 
 </div>
 
----
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true" />
-
 ### 👋 Olá, eu sou o Yago!
 
-> **[✏️ PERSONALIZE: escreva aqui uma frase curta sobre você — ex: "Transformo dados em decisões."]**
+> **Transformo dados em decisões estratégicas.**
 
-Me chamo **Yago [✏️ SOBRENOME]**, tenho **[✏️ IDADE] anos** e sou de **[✏️ CIDADE/ESTADO]**.
+Me chamo **Yago Silva**, tenho **18 anos** e sou de **Candeias/BA**.
 Sou apaixonado por dados e inteligência analítica. Atuo transformando planilhas e bancos de dados em insights visuais e estratégicos que geram valor real para os negócios.
 
-Atualmente **[✏️ trabalhando em / estudando em]** — sempre buscando novos desafios com dados.
+Atualmente **tenho buscado aprimorar os meus conhecimentos em estatítica e storytelling com dados** — sempre buscando novos desafios.
 
-Compartilho conteúdo sobre dados e análise no **[✏️ LinkedIn/Redes]**.
+Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do Github
+
 
 <div align="center">
 
@@ -29,13 +26,11 @@ Compartilho conteúdo sobre dados e análise no **[✏️ LinkedIn/Redes]**.
   <img height="180em" src="https://streak-stats.demolab.com?user=yagosilvax&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
 </a>
 
-<a href="https://github.com/yagosilvax">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yagosilvax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true"/>
-</a>
-
 </div>
 
-### 🛠️ Linguagens e Tecnologias
+---
+
+### Stack Tech
 
 <div align="center">
 
@@ -52,17 +47,19 @@ Compartilho conteúdo sobre dados e análise no **[✏️ LinkedIn/Redes]**.
 
 ---
 
-### 📌 Projetos em Destaque
+### Projetos em Destaque
+<div align="center">
 
 | 🚀 Projeto | 📝 Descrição | 🛠️ Stack |
 |---|---|---|
-| [✏️ Nome do Projeto 1](https://github.com/yagosilvax) | [✏️ Breve descrição do projeto] | Python · PostgreSQL |
-| [✏️ Nome do Projeto 2](https://github.com/yagosilvax) | [✏️ Breve descrição do projeto] | Power BI · Excel |
-| [✏️ Nome do Projeto 3](https://github.com/yagosilvax) | [✏️ Breve descrição do projeto] | Python · Power BI |
+| Controle de Estoque em Python: (https://github.com/yagosilvax) | Controle de estoque com operaçõs de leitura, inserção, deleção e atualização.| Python · PostgreSQL |
+| Pipeline ETL: (https://github.com/yagosilvax) | Pipeline completo de dados - Olist | Power BI · SQL · Python |
+| Análise de Vendas: (https://github.com/yagosilvax) | Análise de dados da Superstore | SQL · Power BI |
+</div>
 
 ---
 
-### 📬 Contato
+### Contato
 
 <div align="center">
 
