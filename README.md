@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=Yago%20Silva&fontSize=75&fontColor=58a6ff&fontAlignY=38&desc=%20Data%20Analyst%20·%20Business%20Intelligence%20·%20Python&descSize=18&descAlignY=60&descColor=8b949e"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=Yago%20Silva&fontSize=75&fontColor=58a6ff&fontAlignY=38&desc=%20Data%20Engineering%20·%20Business%20Intelligence%20·%20Data%20Analysis&descSize=18&descAlignY=60&descColor=8b949e"/>
 </div>
 
 <div align="center">
@@ -12,12 +12,12 @@
 
 ```python
 yago = {
-    "nome":       "Yago Silva",
-    "idade":      18,
-    "cidade":     "Candeias/BA",
-    "foco":       ["Engenharia de dados","Análise de Dados", "Business Intelligence", "ETL"],
-    "stacks":     ["Excel", "Power BI", "Python", "PostgreSQL"],
-    "estudando":  "Estatística & Storytelling com Dados",
+    "Nome":       "Yago Silva",
+    "Idade":      18,
+    "Cidade":     "Candeias/BA",
+    "Foco":       ["Engenharia de dados","Análise de Dados", "Business Intelligence", "ETL"],
+    "Stacks":     ["Excel", "Power BI", "Python", "PostgreSQL"],
+    "Estudando":  "Estatística & Storytelling com Dados",
 }
 ```
 
