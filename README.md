@@ -15,6 +15,7 @@ yago = {
     "Nome":       "Yago Silva",
     "Idade":      18,
     "Cidade":     "Candeias/BA",
+    "Cursando":   "Engenharia de Computação",
     "Foco":       ["Engenharia de dados","Análise de Dados", "Business Intelligence", "ETL"],
     "Stacks":     ["Excel", "Power BI", "Python", "PostgreSQL"],
     "Estudando":  "Estatística & Storytelling com Dados",
