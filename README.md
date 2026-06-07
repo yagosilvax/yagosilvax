@@ -82,7 +82,6 @@ Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 
 </div>
 
----
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d1117&height=120&section=footer"/>
 </div>
