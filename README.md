@@ -54,7 +54,7 @@ Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 |---|---|---|
 | Controle de Estoque em Python: (https://github.com/yagosilvax/Controle-de-Estoque--Python) | Controle de estoque com operaçõs de leitura, inserção, deleção e atualização.| Python · PostgreSQL |
 | Pipeline ETL: (https://github.com/yagosilvax/Projeto_Pipeline_ETL) | Pipeline completo de dados - Olist | Power BI · SQL · Python |
-| Análise de Vendas: (https://github.com/yagosilvax/) | Análise de dados da Superstore | SQL · Power BI |
+| Análise de Vendas: (https://github.com/yagosilvax/Superstore-Analytics-SQL-Power-BI-Case) | Análise de dados da Superstore | SQL · Power BI |
 </div>
 
 ---
