@@ -1,17 +1,25 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=Yago%20Silva&fontSize=75&fontColor=58a6ff&fontAlignY=38&desc=%20Data%20Analyst%20·%20Business%20Intelligence%20·%20Python&descSize=18&descAlignY=60&descColor=8b949e"/>
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Yago%20Silva&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineering%20%7C%20Business%20Intelligence&descAlignY=60&descSize=22)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformo+dados+em+decis%C3%B5es+estrat%C3%A9gicas.;Excel+%7C+Power+BI+%7C+Python+%7C+PostgreSQL;Sempre+aprendendo+e+evoluindo...)](https://git.io/typing-svg)
 
 </div>
 
-### 👋 Olá, eu sou o Yago!
+### Sobre mim:
 
-> **Transformo dados em decisões estratégicas.**
-
-Me chamo **Yago Silva**, tenho **18 anos** e sou de **Candeias/BA**.
-Sou apaixonado por dados e inteligência analítica. Atuo transformando planilhas e bancos de dados em insights visuais e estratégicos que geram valor real para os negócios.
-
-Atualmente **tenho buscado aprimorar os meus conhecimentos em estatítica e storytelling com dados** — sempre buscando novos desafios.
+```python
+yago = {
+    "nome":       "Yago Silva",
+    "idade":      18,
+    "cidade":     "Candeias/BA",
+    "foco":       ["Engenharia de dados","Análise de Dados", "Business Intelligence", "ETL"],
+    "stacks":     ["Excel", "Power BI", "Python", "PostgreSQL"],
+    "estudando":  "Estatística & Storytelling com Dados",
+}
+```
 
 Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 
@@ -29,6 +37,7 @@ Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 </div>
 
 ---
+
 
 ### Stack Tech
 
@@ -50,11 +59,14 @@ Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 ### Projetos em Destaque
 <div align="center">
 
+<div align="center">
+
 | 🚀 Projeto | 📝 Descrição | 🛠️ Stack |
-|---|---|---|
-| Controle de Estoque em Python: (https://github.com/yagosilvax/Controle-de-Estoque--Python) | Controle de estoque com operaçõs de leitura, inserção, deleção e atualização.| Python · PostgreSQL |
-| Pipeline ETL: (https://github.com/yagosilvax/Projeto_Pipeline_ETL) | Pipeline completo de dados - Olist | Power BI · SQL · Python |
-| Análise de Vendas: (https://github.com/yagosilvax/Superstore-Analytics-SQL-Power-BI-Case) | Análise de dados da Superstore | SQL · Power BI |
+|:---|:---|:---:|
+| [Controle de Estoque em Python](https://github.com/yagosilvax/Controle-de-Estoque--Python) | Operações de leitura, inserção, deleção e atualização | `Python` `PostgreSQL` |
+| [Pipeline ETL - Olist](https://github.com/yagosilvax/Projeto_Pipeline_ETL) | Pipeline completo de dados com a base Olist | `Power BI` `SQL` `Python` |
+| [Análise de Vendas - Superstore](https://github.com/yagosilvax/Superstore-Analytics-SQL-Power-BI-Case) | Análise de dados da Superstore com dashboards | `SQL` `Power BI` |
+
 </div>
 
 ---
@@ -70,4 +82,8 @@ Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 </div>
 
 ---
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d1117&height=120&section=footer"/>
+</div>
+
 
