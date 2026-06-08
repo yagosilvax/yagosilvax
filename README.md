@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=%3E_+Transformo+dados+em+decis%C3%B5es+estrat%C3%A9gicas;%3E_+Excel+%7C+Power+BI+%7C+Python+%7C+PostgreSQL;%3E_+Sempre+em+aprendizado+constante...)](https://git.io/typing-svg)
 
 </div>
-### Sobre mim:
+
 
 ```python
 yago = {
@@ -20,7 +20,6 @@ yago = {
 }
 ```
 
-Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 
 ---
 
@@ -77,6 +76,9 @@ Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yago-silva07)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ys10082007@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagosilvax)
+
+Compartilho conteúdo sobre dados e análise no *LinkedIn*.
+
 
 </div>
 
