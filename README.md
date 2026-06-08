@@ -16,7 +16,6 @@ yago = {
     "Cidade":     "Candeias/BA",
     "Cursando":   "Engenharia de Computação",
     "Foco":       ["Engenharia de dados","Análise de Dados", "Business Intelligence"],
-    "Stacks":     ["Excel", "Power BI", "Python", "PostgreSQL"],
     "Estudando":  "Estatística & Storytelling com Dados",
 }
 ```
