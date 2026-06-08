@@ -4,10 +4,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformo+dados+em+decis%C3%B5es+estrat%C3%A9gicas.;Excel+%7C+Power+BI+%7C+Python+%7C+PostgreSQL;Sempre+aprendendo+e+evoluindo...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=%3E_+Transformo+dados+em+decis%C3%B5es+estrat%C3%A9gicas;%3E_+Excel+%7C+Power+BI+%7C+Python+%7C+PostgreSQL;%3E_+Sempre+em+aprendizado+constante...)](https://git.io/typing-svg)
 
 </div>
-
 ### Sobre mim:
 
 ```python
@@ -62,7 +61,7 @@ Compartilho conteúdo sobre dados e análise no *LinkedIn*.
 
 <div align="center">
 
-| 🚀 Projeto | 📝 Descrição | 🛠️ Stack |
+| Projeto | Descrição | Stack |
 |:---|:---|:---:|
 | [Controle de Estoque em Python](https://github.com/yagosilvax/Controle-de-Estoque--Python) | Operações de leitura, inserção, deleção e atualização | `Python` `PostgreSQL` |
 | [Pipeline ETL - Olist](https://github.com/yagosilvax/Projeto_Pipeline_ETL) | Pipeline completo de dados com a base Olist | `Power BI` `SQL` `Python` |
